@@ -16,6 +16,9 @@
 % Better fonts with accents
 \RequirePackage[T1]{fontenc}
 
+% Better font
+\RequirePackage{newtx}
+
 % Required for starred commands
 \RequirePackage{suffix}
 
