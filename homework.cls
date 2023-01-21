@@ -16,9 +16,6 @@
 % Better fonts with accents
 \RequirePackage[T1]{fontenc}
 
-% Better font
-\RequirePackage{newtx}
-
 % Required for starred commands
 \RequirePackage{suffix}
 
@@ -40,6 +37,9 @@
 \RequirePackage{wrapfig}
 \RequirePackage{fancyvrb}
 \RequirePackage{listings}
+
+% Better font
+\RequirePackage{newtx}
 
 % Conditionals
 \RequirePackage{ifthen}
