@@ -203,3 +203,18 @@
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
 % -----------------------------------------------------------------------------
+
+% shortcuts for math symbols
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\C}{\mathbb{C}}
+
+\newcommand{\bcond}{\leftrightarrow}
+\newcommand{\sseq}{\subseteq}
+
+\newcommand{\ia}{\mathfrak{a}}
+\newcommand{\ib}{\mathfrak{b}}
+\newcommand{\ic}{\mathfrak{c}}
+\newcommand{\nilp}{\mathfrak{N}}
