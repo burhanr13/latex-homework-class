@@ -205,16 +205,32 @@
 % -----------------------------------------------------------------------------
 
 % shortcuts for math symbols
-\newcommand{\N}{\mathbb{N}}
-\newcommand{\Z}{\mathbb{Z}}
-\newcommand{\Q}{\mathbb{Q}}
-\newcommand{\R}{\mathbb{R}}
-\newcommand{\C}{\mathbb{C}}
+
+\newcommand{\mbf}[1]{\mathbf{#1}}
+\newcommand{\mbb}[1]{\mathbb{#1}}
+\newcommand{\mca}[1]{\mathcal{#1}}
+\newcommand{\mfr}[1]{\mathfrak{#1}}
+\newcommand{\mss}[1]{\mathsf{#1}}
+
+\newcommand{\N}{\mbb{N}}
+\newcommand{\Z}{\mbb{Z}}
+\newcommand{\Q}{\mbb{Q}}
+\newcommand{\R}{\mbb{R}}
+\newcommand{\C}{\mbb{C}}
 
 \newcommand{\bcond}{\leftrightarrow}
 \newcommand{\sseq}{\subseteq}
 
-\newcommand{\ia}{\mathfrak{a}}
-\newcommand{\ib}{\mathfrak{b}}
-\newcommand{\ic}{\mathfrak{c}}
-\newcommand{\nilp}{\mathfrak{N}}
+\newcommand{\ia}{\mfr{a}}
+\newcommand{\ib}{\mfr{b}}
+\newcommand{\ic}{\mfr{c}}
+\newcommand{\nilp}{\mfr{N}}
+
+\newcommand{\cbr}[1]{\left\{#1\right\}}
+\newcommand{\prn}[1]{\left( #1\right)}
+\newcommand{\brc}[1]{\left[ #1\right]}
+\newcommand{\angb}[1]{\left\langle #1 \right\rangle}
+
+\DeclareMathOperator{\lcm}{lcm}
+\DeclareMathOperator{\Jac}{J}
+
