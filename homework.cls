@@ -232,5 +232,6 @@
 \newcommand{\angb}[1]{\left\langle #1 \right\rangle}
 
 \DeclareMathOperator{\lcm}{lcm}
-\DeclareMathOperator{\Jac}{J}
+\DeclareMathOperator{\jac}{J}
+\DeclareMathOperator{\rad}{Rad}
 
