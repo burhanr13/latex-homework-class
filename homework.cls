@@ -236,5 +236,5 @@
 \DeclareMathOperator{\lcm}{lcm}
 \DeclareMathOperator{\jac}{J}
 \DeclareMathOperator{\rad}{Rad}
-\DeclareMathOperator(\fun}{Fun}
+\DeclareMathOperator{\fun}{Fun}
 
