@@ -224,6 +224,8 @@
 \newcommand{\ia}{\mfr{a}}
 \newcommand{\ib}{\mfr{b}}
 \newcommand{\ic}{\mfr{c}}
+\newcommand{\im}{\mfr{m}}
+\newcommand{\ip}{\mfr{p}}
 \newcommand{\nilp}{\mfr{N}}
 
 \newcommand{\cbr}[1]{\left\{#1\right\}}
@@ -234,4 +236,5 @@
 \DeclareMathOperator{\lcm}{lcm}
 \DeclareMathOperator{\jac}{J}
 \DeclareMathOperator{\rad}{Rad}
+\DeclareMathOperator(\fun}{Fun}
 
