@@ -115,6 +115,10 @@
   \begin{enumerate}[label=\textbf{(\alph{partCounter})}]%
 }{\end{enumerate}}
 
+\newenvironment{romanparts}[0]{%
+  \begin{enumerate}[label=\textbf{(\roman{partCounter})}]%
+}{\end{enumerate}}
+
 \newenvironment{arabicparts}[0]{%
   \begin{enumerate}[label=\textbf{\arabic{questionCounter}.\arabic{partCounter}})]%
 }{\end{enumerate}}
