@@ -234,8 +234,6 @@
 \newcommand{\im}{\mfr{m}}
 \newcommand{\ip}{\mfr{p}}
 
-\newcommand{\O}{\mca{O}}
-
 \newcommand{\cbr}[1]{\left\{#1\right\}}
 \newcommand{\prn}[1]{\left( #1\right)}
 \newcommand{\brc}[1]{\left[ #1\right]}
@@ -245,4 +243,4 @@
 \DeclareMathOperator{\jac}{J}
 \DeclareMathOperator{\rad}{Rad}
 \DeclareMathOperator{\fun}{Fun}
-
+\DeclareMathOperator{\bigo}{\mca{O}}
