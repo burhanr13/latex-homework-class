@@ -41,6 +41,9 @@
 % Better font
 \RequirePackage{newtx}
 
+% pseudocode
+\RequirePackage{algpseudocode}
+
 % Conditionals
 \RequirePackage{ifthen}
 
@@ -230,7 +233,8 @@
 \newcommand{\ic}{\mfr{c}}
 \newcommand{\im}{\mfr{m}}
 \newcommand{\ip}{\mfr{p}}
-\newcommand{\nilp}{\mfr{N}}
+
+\newcommand{\O}{\mca{O}}
 
 \newcommand{\cbr}[1]{\left\{#1\right\}}
 \newcommand{\prn}[1]{\left( #1\right)}
