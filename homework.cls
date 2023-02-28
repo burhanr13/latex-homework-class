@@ -245,7 +245,7 @@
 \DeclareMathOperator{\fun}{Fun}
 \DeclareMathOperator{\bigo}{\mca{O}}
 \DeclareMathOperator{\sym}{Sym}
-\DeclareMathOperator{\gl}{GL}
-\DeclareMathOperator{\sl}{SL}
+\DeclareMathOperator{\GL}{GL}
+\DeclareMathOperator{\SL}{SL}
 \DeclareMathOperator{\aut}{Aut}
 
