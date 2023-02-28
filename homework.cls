@@ -244,3 +244,8 @@
 \DeclareMathOperator{\rad}{Rad}
 \DeclareMathOperator{\fun}{Fun}
 \DeclareMathOperator{\bigo}{\mca{O}}
+\DeclareMathOperator{\sym}{Sym}
+\DeclareMathOperator{\gl}{GL}
+\DeclareMathOperator{\sl}{SL}
+\DeclareMathOperator{\aut}{Aut}
+
