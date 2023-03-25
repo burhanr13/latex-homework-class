@@ -217,7 +217,8 @@
 \newcommand{\mbb}[1]{\mathbb{#1}}
 \newcommand{\mca}[1]{\mathcal{#1}}
 \newcommand{\mfr}[1]{\mathfrak{#1}}
-\newcommand{\mss}[1]{\mathsf{#1}}
+\newcommand{\msf}[1]{\mathsf{#1}}
+\newcommand{\msc}[1]{\mathscr{#1}}
 
 \newcommand{\N}{\mbb{N}}
 \newcommand{\Z}{\mbb{Z}}
@@ -248,4 +249,6 @@
 \DeclareMathOperator{\GL}{GL}
 \DeclareMathOperator{\SL}{SL}
 \DeclareMathOperator{\aut}{Aut}
+\DeclareMathOperator{\ad}{Ad}
+\DeclareMathOperator{\inn}{Inn}
 
