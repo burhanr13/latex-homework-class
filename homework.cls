@@ -226,6 +226,8 @@
 \newcommand{\R}{\mbb{R}}
 \newcommand{\C}{\mbb{C}}
 
+\newcommand{\mat}[1]{\begin{pmatrix}#1\en{pmatrix}}
+
 \newcommand{\bcond}{\leftrightarrow}
 \newcommand{\sseq}{\subseteq}
 
