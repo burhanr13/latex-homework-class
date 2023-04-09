@@ -253,4 +253,6 @@
 \DeclareMathOperator{\aut}{Aut}
 \DeclareMathOperator{\ad}{Ad}
 \DeclareMathOperator{\inn}{Inn}
+\DeclareMathOperator{\syl}{Syl}
+\DeclareMathOperator{\trans}{Trans}
 
