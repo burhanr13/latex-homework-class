@@ -230,6 +230,8 @@
 
 \newcommand{\bcond}{\leftrightarrow}
 \newcommand{\sseq}{\subseteq}
+\newcommand{\normeq}{\trianglerighteq}
+\newcommand{\norm}{\vartriangleright}
 
 \newcommand{\ia}{\mfr{a}}
 \newcommand{\ib}{\mfr{b}}
