@@ -37,6 +37,7 @@
 \RequirePackage{wrapfig}
 \RequirePackage{fancyvrb}
 \RequirePackage{listings}
+\RequirePackage{tikz}
 
 % Better font
 \RequirePackage{newtx}
