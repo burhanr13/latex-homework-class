@@ -242,7 +242,9 @@
 \newcommand{\cbr}[1]{\left\{#1\right\}}
 \newcommand{\prn}[1]{\left( #1\right)}
 \newcommand{\brc}[1]{\left[ #1\right]}
-\newcommand{\angb}[1]{\left\langle #1 \right\rangle}
+\newcommand{\gen}[1]{\left\langle #1 \right\rangle}
+\newcommand{\abs}[1]{\left| #1 \right|}
+\newcommand{\norm}[1]{\left\Vert #1 \right\Vert}
 
 \DeclareMathOperator{\lcm}{lcm}
 \DeclareMathOperator{\jac}{J}
