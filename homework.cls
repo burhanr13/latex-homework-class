@@ -260,4 +260,4 @@
 \DeclareMathOperator{\inn}{Inn}
 \DeclareMathOperator{\syl}{Syl}
 \DeclareMathOperator{\trans}{Trans}
-
+\DeclareMathOperator{\stab}{Stab}
