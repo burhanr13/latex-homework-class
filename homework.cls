@@ -255,6 +255,7 @@
 \DeclareMathOperator{\sym}{Sym}
 \DeclareMathOperator{\GL}{GL}
 \DeclareMathOperator{\SL}{SL}
+\DeclareMathOperator{\PSL}{PSL}
 \DeclareMathOperator{\aut}{Aut}
 \DeclareMathOperator{\ad}{Ad}
 \DeclareMathOperator{\inn}{Inn}
