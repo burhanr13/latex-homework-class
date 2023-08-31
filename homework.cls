@@ -227,6 +227,8 @@
 \newcommand{\R}{\mbb{R}}
 \newcommand{\C}{\mbb{C}}
 
+\newcommand{\F}{\mbb{F}}
+
 \newcommand{\mat}[1]{\begin{pmatrix}#1\end{pmatrix}}
 
 \newcommand{\bcond}{\leftrightarrow}
@@ -240,7 +242,9 @@
 \newcommand{\im}{\mfr{m}}
 \newcommand{\ip}{\mfr{p}}
 
-\newcommand{\cbr}[1]{\left\{#1\right\}}
+\newcommand{\eps}{\varepsilon}
+
+\newcommand{\set}[1]{\left\{#1\right\}}
 \newcommand{\prn}[1]{\left( #1\right)}
 \newcommand{\brc}[1]{\left[ #1\right]}
 \newcommand{\gen}[1]{\left\langle #1 \right\rangle}
@@ -248,6 +252,7 @@
 \newcommand{\norm}[1]{\left\Vert #1 \right\Vert}
 
 \DeclareMathOperator{\lcm}{lcm}
+
 \DeclareMathOperator{\jac}{J}
 \DeclareMathOperator{\rad}{Rad}
 \DeclareMathOperator{\fun}{Fun}
