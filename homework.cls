@@ -270,3 +270,4 @@
 \DeclareMathOperator{\syl}{Syl}
 \DeclareMathOperator{\trans}{Trans}
 \DeclareMathOperator{\stab}{Stab}
+\DeclareMathOperator{\intr}{int}
