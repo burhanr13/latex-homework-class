@@ -250,6 +250,8 @@
 \newcommand{\gen}[1]{\left\langle #1 \right\rangle}
 \newcommand{\abs}[1]{\left| #1 \right|}
 \newcommand{\norm}[1]{\left\Vert #1 \right\Vert}
+\newcommand{\floor}[1]{\left\lfloor #1 \right\rfloor}
+\newcommand{\ceil}[1]{\left\lceil #1 \right\rceil}
 
 \DeclareMathOperator{\lcm}{lcm}
 
