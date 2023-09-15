@@ -235,6 +235,7 @@
 \newcommand{\sseq}{\subseteq}
 \newcommand{\nsubeq}{\trianglelefteq}
 \newcommand{\nsub}{\vartriangleleft}
+\newcommand{\clos}[1]{\overline{#1}}
 
 \newcommand{\ia}{\mfr{a}}
 \newcommand{\ib}{\mfr{b}}
