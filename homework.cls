@@ -236,6 +236,7 @@
 \newcommand{\nsubeq}{\trianglelefteq}
 \newcommand{\nsub}{\vartriangleleft}
 \newcommand{\clos}[1]{\overline{#1}}
+\newcommand{\conj}[1]{\overline{#1}}
 
 \newcommand{\ia}{\mfr{a}}
 \newcommand{\ib}{\mfr{b}}
@@ -248,7 +249,7 @@
 \newcommand{\set}[1]{\left\{#1\right\}}
 \newcommand{\prn}[1]{\left( #1\right)}
 \newcommand{\brc}[1]{\left[ #1\right]}
-\newcommand{\gen}[1]{\left\langle #1 \right\rangle}
+\newcommand{\ang}[1]{\left\langle #1 \right\rangle}
 \newcommand{\abs}[1]{\left| #1 \right|}
 \newcommand{\norm}[1]{\left\Vert #1 \right\Vert}
 \newcommand{\floor}[1]{\left\lfloor #1 \right\rfloor}
