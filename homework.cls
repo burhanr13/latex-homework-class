@@ -221,6 +221,8 @@
 \newcommand{\msf}[1]{\mathsf{#1}}
 \newcommand{\msc}[1]{\mathscr{#1}}
 
+\newcommand{\code}[1]{\texttt{#1}}
+
 \newcommand{\N}{\mbb{N}}
 \newcommand{\Z}{\mbb{Z}}
 \newcommand{\Q}{\mbb{Q}}
